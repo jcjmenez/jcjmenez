@@ -2,13 +2,13 @@
 <h3 align="center">Computer Science Student</h3>
 
 - 🔭 I’m currently studying computer science at **Universidad Europea**
-- 🌱 I’m currently learning **Fullstack technologies and artificial intelligence**
+- 🌱 I’m currently learning **Fullstack technologies and Artificial Intelligence**
 - 👨‍💻 Some of my fun projects are available at [https://jcjmenez.me/]
 - 📫 How to reach me: **jcjmenez.02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-carlos-jim%C3%A9nez-337357224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcjmenez" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jcjmenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcjmenez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
