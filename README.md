@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying computer science at **Universidad Europea**
 - 🌱 I’m currently learning **Fullstack technologies and Artificial Intelligence**
-- 👨‍💻 Some of my fun projects are available at [https://jcjmenez.me/]
+- 👨‍💻 Some of my fun projects are available at [https://jcjmenez.vercel.app/]
 - 📫 How to reach me: **jcjmenez.02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
